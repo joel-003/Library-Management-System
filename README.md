@@ -158,7 +158,7 @@ src/
 │   ├── UserService.java
 │   └── StaffService.java
 │
-├── ui/
+├── controller/
 │   ├── AdminInterface.java
 │   ├── LibrarianInterface.java
 │   ├── StaffInterface.java
